@@ -1,0 +1,7 @@
+6
+Buyer maxl 1234 israel petah-tikva borchov 2
+Buyer avihai 1111 israel lod herman 33
+Seller tomer 1234 israel lod bialik 5
+Seller alex 1234 israel lod balfur 10
+Seller andrey 1234 israel batyam balfur 30
+BuyerSeller eli 0000 israel haifa bulbul 15
